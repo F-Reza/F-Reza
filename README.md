@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="FrezaCSE | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"target="_blank" />][twitter]
-[<img align="left" alt="FrezaCSE/ | facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"target="_blank" />][facebook]
-[<img align="left" alt="FrezaBD | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"target="_blank" />][instagram]
-[<img align="left" alt="FrezaCSE | linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"target="_blank" />][linkedin]
+[<img align="left" alt="FrezaCSE | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="FrezaCSE/ | facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="FrezaBD | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="FrezaCSE | linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
 ### Languages and Tools:
