@@ -47,7 +47,7 @@
 [facebook]: https://www.facebook.com/FrezaCSE/
 [instagram]: https://www.instagram.com/F_reza__/
 [linkedin]: https://www.linkedin.com/in/ForhadReza/
-[pinterest]: https://www.linkedin.com/in/F_Reza__/
+[pinterest]: https://www.pinterest.com/F_Reza__/
 
 
 
