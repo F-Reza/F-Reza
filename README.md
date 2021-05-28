@@ -13,6 +13,7 @@
 [<img align="left" alt="FrezaCSE/ | facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="FrezaBD | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="FrezaCSE | linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FrezaCSE | linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][linkedin]
 <br/>
 
 
@@ -42,10 +43,12 @@
 <img align="left" alt="Forhad Reza Github Stats" src="https://github-readme-stats.vercel.app/api?username=F-reza&show_icons=true&hide_border=true"/>
 
   
-[twitter]: https://twitter.com/FrezaCSE/
+[twitter]: https://twitter.com/F_reza__/
 [facebook]: https://www.facebook.com/FrezaCSE/
 [instagram]: https://www.instagram.com/F_reza__/
-[linkedin]: https://www.linkedin.com/in/FrezaCSE/
+[linkedin]: https://www.linkedin.com/in/ForhadReza/
+[pinterest]: https://www.linkedin.com/in/F_Reza__/
+
 
 
 
