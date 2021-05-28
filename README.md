@@ -44,7 +44,7 @@
   
 [twitter]: https://twitter.com/FrezaCSE/
 [facebook]: https://www.facebook.com/FrezaCSE/
-[instagram]: https://www.instagram.com/FrezaBD/
+[instagram]: https://www.instagram.com/F_reza__/
 [linkedin]: https://www.linkedin.com/in/FrezaCSE/
 
 
