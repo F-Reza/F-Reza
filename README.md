@@ -43,9 +43,9 @@
 <img align="left" alt="Forhad Reza Github Stats" src="https://github-readme-stats.vercel.app/api?username=F-reza&show_icons=true&hide_border=true"/>
 
   
-[twitter]: https://twitter.com/F_reza__/
+[twitter]: https://twitter.com/F_Reza__/
 [facebook]: https://www.facebook.com/FrezaCSE/
-[instagram]: https://www.instagram.com/F_reza__/
+[instagram]: https://www.instagram.com/F_Reza__/
 [linkedin]: https://www.linkedin.com/in/ForhadReza/
 [pinterest]: https://www.pinterest.com/F_Reza__/
 
@@ -54,8 +54,8 @@
 
 ✨ special ✨
 
-╔═════════════════════════╗
+╔═══════════════════════╗
 
 ║ ▓▓▒▒▒░░|          Next_Digit         |░░░▒▒▓  ║
 
-╚═════════════════════════╝
+╚═══════════════════════╝
