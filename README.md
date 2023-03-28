@@ -59,17 +59,6 @@ ___
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
-
-
-<br/>
-<br/>
-<br/>  
-<br/>   
-<br/> 
-
-
-
-  
 [twitter]: https://twitter.com/F_Reza__/
 [facebook]: https://www.facebook.com/FrezaCSE/
 [instagram]: https://www.instagram.com/F_Reza__/
