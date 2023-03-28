@@ -38,13 +38,16 @@
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br/>
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
 <br/>
+<br/>
+
 
 # 📊 GitHub Stats:
 
-<img align="left" alt="Forhad Reza Github Stats" src="https://github-readme-stats.vercel.app/api?username=F-reza&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"/>|
+<img align="left" alt="Forhad Reza Github Stats" src="https://github-readme-stats.vercel.app/api?username=F-reza&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=F-Reza&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Reza&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
