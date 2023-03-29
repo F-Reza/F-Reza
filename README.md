@@ -45,10 +45,10 @@ ___
 ___
 # 📊 GitHub Stats:
 
-<img align="left" alt="Forhad Reza Github Stats" src="https://github-readme-stats.vercel.app/api?username=F-reza&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"/>
+<img align="left" alt="Forhad Reza Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=F-reza&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=F-Reza&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Reza&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=F-Reza&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
