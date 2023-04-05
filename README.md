@@ -41,8 +41,7 @@ ___
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
 <br/>
-
-___
+<hr>
 <p align="center">
     <table align="center">
         <tr>
@@ -53,6 +52,25 @@ ___
         </tr>
    </table>
 </p>
+
+## 📊 My Github Stats
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img alt="Forhad Reza Github Stats" src="https://github-readme-stats.vercel.app/api?username=F-reza&show_icons=true&count_private=true&theme=default&hide_border=true" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img alt="Forhad Reza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-reza&langs_count=8.0&count_private=true&layout=compact&theme=default&hide_border=true" />
+            </a>
+        </td>
+    </tr>
+</table>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.
+<br/>
+<br/>
 
 # 📊 GitHub Stats:
 
