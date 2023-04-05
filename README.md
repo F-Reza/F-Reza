@@ -48,7 +48,7 @@ ___
         <tr>
             <td>
                 <a href="#">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=F-Reza&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=F-Reza&theme=swift&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
             </td>
         </tr>
    </table>
