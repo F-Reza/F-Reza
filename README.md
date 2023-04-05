@@ -44,16 +44,7 @@ ___
 <br/>
 <br/>
 <hr/>
-<p align="center">
-    <table align="center">
-        <tr>
-            <td>
-                <a href="#">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=F-Reza&theme=swift&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
-            </td>
-        </tr>
-   </table>
-</p>
+
 
 ## 📊 My Github Stats
 
@@ -73,7 +64,16 @@ ___
 </table>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.
 <br/>
-<br/>
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                <a href="#">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=F-Reza&theme=swift&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
+            </td>
+        </tr>
+   </table>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=F-Reza&theme=flat&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=8)
