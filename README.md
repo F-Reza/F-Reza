@@ -53,16 +53,16 @@ ___
    </table>
 </p>
 
-## 📊 My Github Stats
+# 📊 My Github Stats
 <table align="center">
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
+            <a href="#">
                 <img alt="Forhad Reza Github Stats" src="https://github-readme-stats.vercel.app/api?username=F-reza&show_icons=true&count_private=true&theme=default&hide_border=true" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
+            <a href="#">
                 <img alt="Forhad Reza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-reza&langs_count=8.0&count_private=true&layout=compact&theme=default&hide_border=true" />
             </a>
         </td>
