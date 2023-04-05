@@ -53,7 +53,7 @@ ___
    </table>
 </p>
 
-# 📊 My Github Stats
+## 📊 My Github Stats
 <table align="center">
     <tr>
         <td>
@@ -63,7 +63,7 @@ ___
         </td>
         <td>
             <a href="#">
-                <img alt="Forhad Reza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-reza&langs_count=8.0&count_private=true&layout=compact&theme=default&hide_border=true" />
+                <img alt="Forhad Reza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-reza&langs_count=8.0&count_private=true&layout=compact&theme=default&hide_border=true&langs_count=8.0&include_all_commits=true" />
             </a>
         </td>
     </tr>
@@ -71,13 +71,6 @@ ___
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.
 <br/>
 <br/>
-
-# 📊 GitHub Stats:
-
-<img align="left" alt="Forhad Reza Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=F-reza&show_icons=true&hide_border=false&include_all_commits=true&count_private=false"/>
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=F-Reza&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=F-Reza&theme=flat&no-frame=false&no-bg=false&margin-w=4)
