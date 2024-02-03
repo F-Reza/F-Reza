@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Forhad Reza
 ### 😎 About Me: 💫
-🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on software development<br>🤝 I’m looking for help with developing Android, iOS app and Web Applications<br>🌱 I’m currently learning laravel-10 & flutter<br>💬 Ask me about unit testing<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on software development<br>🤝 I’m looking for help with developing Android, iOS app and Web Applications<br>🌱 I’m currently learning laravel-10 & flutter<br> ⚡ Fun fact - I am lazy but smart
 
 ---
 [![](https://visitcount.itsvg.in/api?id=F-Reza&icon=0&color=1)](https://visitcount.itsvg.in)
