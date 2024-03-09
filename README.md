@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Forhad Reza</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+am+a+Flutter+Developer;I+am+a+Web+Developer" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&duration=3000&pause=1000&color=00000&center=true&vCenter=true&width=435&lines=I+am+a+Flutter+Developer;I+am+a+Web+Developer" alt="Typing SVG" /></a></h3>
 
 # 💫 About Me:
 I'm a skilled software developer with expertise in Flutter, Laravel, creating Android, iOS App and Web Applications. I have experience in building cross-platform mobile applications. I'm a quick learner and always eager to explore new technologies and tools to enhance my skillset further. Let's collaborate to bring your ideas to life and create innovative and user-friendly solutions for real-world problems!
