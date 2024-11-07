@@ -50,7 +50,8 @@ I'm a skilled software developer with expertise in Flutter, Laravel, creating An
         </td>
         <td>
             <a href="#">
-                <img alt="Forhad Reza Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-reza&langs_count=8.0&count_private=true&layout=compact&theme=default&hide_border=true&langs_count=8.0&include_all_commits=true" />
+                
+  <img alt="Forhad Reza Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-reza&layout=compact" />
             </a>
         </td>
     </tr>
