@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Forhad Reza</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&duration=3000&pause=1000&color=00000&center=true&vCenter=true&width=700&lines=As+a+Software+Engineer;As+a+Flutter+Android,iOS+App+Developer;Also+Laravel+Web+Developer" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&duration=3000&pause=1000&color=00000&center=true&vCenter=true&width=700&lines=Software+Engineer;Android, iOS+App+Developer+(Flutter);Laravel+Web+Developer" alt="Typing SVG" /></a></h3>
 
 # 💫 About Me:
 I'm a skilled software developer with expertise in Flutter, Laravel, creating Android, iOS App and Web Applications. I have experience in building cross-platform mobile applications. I'm a quick learner and always eager to explore new technologies and tools to enhance my skillset further. Let's collaborate to bring your ideas to life and create innovative and user-friendly solutions for real-world problems!
 
 [![](https://visitcount.itsvg.in/api?id=F-Reza&icon=0&color=1)](https://visitcount.itsvg.in)
 
-🔭 I’m currently working on software development<br>🤝 I’m looking for help with developing Android, iOS app and Web Applications<br>🌱 I’m currently learning laravel-10 & flutter<br> ⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on software development<br>🤝 I’m looking for help with developing Android, iOS app and Web Applications<br>🌱 I’m currently learning laravel-11 & flutter<br> ⚡ Fun fact - I am lazy but smart
 
 # 💻 Tech Stack:
 <p align="center">
