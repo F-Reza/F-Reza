@@ -2,12 +2,12 @@
 
 <p align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=26&duration=3000&pause=1000&color=00000&center=true&vCenter=true&width=700&lines=Software+Engineer;Android,+iOS+App+Developer+(Flutter);Laravel+Web+Developer" alt="Typing SVG" /></a></p>
 
-### 💫 About Me:
-I am a skilled and passionate software developer with expertise in Flutter and Laravel, specializing in building high-quality Android, iOS, and Web Applications. With a strong foundation in cross-platform mobile development, I have a proven track record of delivering innovative, scalable, and user-friendly solutions.
+###  About Me:
+<span style="font-size: 6px;"> I am a skilled and passionate software developer with expertise in Flutter and Laravel, specializing in building high-quality Android, iOS, and Web Applications. With a strong foundation in cross-platform mobile development, I have a proven track record of delivering innovative, scalable, and user-friendly solutions.
 
 I am a quick learner, highly motivated, and always eager to explore emerging technologies and tools to expand my technical skillset. My approach to development is rooted in creativity, adaptability, and a deep sense of responsibility. I thrive in competitive and collaborative environments that challenge me to think critically and contribute meaningfully to real-world projects.
 
-Let’s collaborate to bring your ideas to life and turn complex challenges into intuitive digital experiences.
+Let’s collaborate to bring your ideas to life and turn complex challenges into intuitive digital experiences. </span>
 
 #### Key Strengths:
 
@@ -64,7 +64,7 @@ Let’s collaborate to bring your ideas to life and turn complex challenges into
         </td>
     </tr>
 </table>
-<b><i>Note:</i></b> <span style="font-size: 8px;"><i>Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.</i></span>
+<b><i>Note:</i></b> <span style="font-size: 9px;"><i>Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.</i></span>
 
 <br/>
 <center>
