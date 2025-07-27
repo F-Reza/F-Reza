@@ -1,14 +1,22 @@
-<h1 align="center">Hi 👋, I'm Forhad Reza</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&duration=3000&pause=1000&color=00000&center=true&vCenter=true&width=700&lines=Software+Engineer;Android, iOS+App+Developer+(Flutter);Laravel+Web+Developer" alt="Typing SVG" /></a></h3>
+<h2 align="center">Hi 👋, I'm Forhad Reza</h2>
 
-# 💫 About Me:
-I'm a skilled software developer with expertise in Flutter, Laravel, creating Android, iOS App and Web Applications. I have experience in building cross-platform mobile applications. I'm a quick learner and always eager to explore new technologies and tools to enhance my skillset further. Let's collaborate to bring your ideas to life and create innovative and user-friendly solutions for real-world problems!
+<p align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=26&duration=3000&pause=1000&color=00000&center=true&vCenter=true&width=700&lines=Software+Engineer;Android,+iOS+App+Developer+(Flutter);Laravel+Web+Developer" alt="Typing SVG" /></a></p>
 
-[![](https://visitcount.itsvg.in/api?id=F-Reza&icon=0&color=1)](https://visitcount.itsvg.in)
+## 💫 About Me:
+I am a skilled and passionate software developer with expertise in Flutter and Laravel, specializing in building high-quality Android, iOS, and Web Applications. With a strong foundation in cross-platform mobile development, I have a proven track record of delivering innovative, scalable, and user-friendly solutions.
 
-🔭 I’m currently working on software development<br>🤝 I’m looking for help with developing Android, iOS app and Web Applications<br>🌱 I’m currently learning laravel-11 & flutter<br> ⚡ Fun fact - I am lazy but smart
+I am a quick learner, highly motivated, and always eager to explore emerging technologies and tools to expand my technical skillset. My approach to development is rooted in creativity, adaptability, and a deep sense of responsibility. I thrive in competitive and collaborative environments that challenge me to think critically and contribute meaningfully to real-world projects.
 
-# 💻 Tech Stack:
+Let’s collaborate to bring your ideas to life and turn complex challenges into intuitive digital experiences.
+
+### Key Strengths:
+
+✔ 3+ Years in Mobile & Web App Development
+✔ Expertise: Flutter, Laravel, Firebase, REST APIs, MySQL
+✔ Quick Learner | Problem Solver | Team Player
+✔ Focus: Scalable, Performance-Optimized, User-Centric Apps
+
+## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,php,laravel,mysql,python,c,git,java,js,html,css," />
@@ -30,7 +38,7 @@ I'm a skilled software developer with expertise in Flutter, Laravel, creating An
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FrezaCSE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/F_reza__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/forhadreza) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/F_reza__) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/F_reza__) [<img align="left" alt="F_Reza__ | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="F_Reza__ | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="FrezaCSE/ | facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="F_Reza__ | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ForhadReza | linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
