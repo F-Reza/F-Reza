@@ -2,14 +2,14 @@
 
 <p align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=26&duration=3000&pause=1000&color=00000&center=true&vCenter=true&width=700&lines=Software+Engineer;Android,+iOS+App+Developer+(Flutter);Laravel+Web+Developer" alt="Typing SVG" /></a></p>
 
-## 💫 About Me:
+### 💫 About Me:
 I am a skilled and passionate software developer with expertise in Flutter and Laravel, specializing in building high-quality Android, iOS, and Web Applications. With a strong foundation in cross-platform mobile development, I have a proven track record of delivering innovative, scalable, and user-friendly solutions.
 
 I am a quick learner, highly motivated, and always eager to explore emerging technologies and tools to expand my technical skillset. My approach to development is rooted in creativity, adaptability, and a deep sense of responsibility. I thrive in competitive and collaborative environments that challenge me to think critically and contribute meaningfully to real-world projects.
 
 Let’s collaborate to bring your ideas to life and turn complex challenges into intuitive digital experiences.
 
-### Key Strengths:
+#### Key Strengths:
 
 ✔ 3+ Years in Mobile & Web App Development
 ✔ Expertise: Flutter, Laravel, Firebase, REST APIs, MySQL
