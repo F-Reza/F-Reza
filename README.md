@@ -11,7 +11,7 @@ Let’s collaborate to bring your ideas to life and turn complex challenges into
 
 #### Key Strengths:
 
-✔ 2+ Years in Mobile & Web App Development
+✔ 4+ Years in Mobile & Web App Development
 ✔ Expertise: Flutter, Laravel, Firebase, REST APIs, MySQL, JavaFX, PowerBI
 ✔ Quick Learner | Problem Solver | Team Player
 ✔ Focus: Scalable, Performance-Optimized, User-Centric Apps
